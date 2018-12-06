@@ -4,8 +4,12 @@
 
 ### Instructional Materials Motivation Survey (IMMS)
 
-Measure: people’s situational reactions to instructional materials in the light of the ARCS model (Keller, 1987)
-Items: 36 (reduced version 12 items)
+#### Description
+
+* Measure: people’s situational reactions to instructional materials in the light of the ARCS model (Keller, 1987)
+* Items: 36 (reduced version 12 items)
+
+#### References
 
 * Loorbach, N., Peters, O., Karreman, J., & Steehouder, M. (2015). Validation of the Instructional Materials Motivation Survey (IMMS) in a self-directed instructional setting aimed at working with technology: Validation of the IMMS. British Journal of Educational Technology: Journal of the Council for Educational Technology, 46(1), 204–218.
 
@@ -16,7 +20,11 @@ Items: 36 (reduced version 12 items)
 
 ### Technology-Rich Outcomes-Focused Learning Environment Inventory (TROFLEI)
 
-Measure: 10 classroom environment dimensions: Student Cohesiveness, Teacher Support, Involvement, Investigation, Task Orientation, Cooperation, Equity, Differentiation, Computer Usage and Young Adult Ethos
-Items: 80
+#### Description
+
+* Measure: 10 classroom environment dimensions: Student Cohesiveness, Teacher Support, Involvement, Investigation, Task Orientation, Cooperation, Equity, Differentiation, Computer Usage and Young Adult Ethos
+* Items: 80
+
+#### References
 
 * Aldridge, J. M., Dorman, J. P., & Fraser, B. J. (2004). Use of Multitrait-Multimethod Modelling to Validate Actual and Preferred Forms of the Technology-Rich Outcomes-Focused Learning Environment Inventory (TROFLEI). Australian Journal of Educational & Developmental Psychology, 4, 110–125.
