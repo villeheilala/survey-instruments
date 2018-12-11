@@ -1,10 +1,10 @@
-# List of Survey Instruments
+# Survey Research and Survey Instruments
 
 ## General literature
 
 * DeVellis, R. F. (1991). Scale development: Theory and applications. Newbury Park (Calif.): SAGE.
 
-## Learning / Teaching
+## Instruments
 
 ### Instructional Materials Motivation Survey (IMMS)
 
@@ -40,3 +40,7 @@
 
 * Aldridge, J. M., Dorman, J. P., & Fraser, B. J. (2004). Use of Multitrait-Multimethod Modelling to Validate Actual and Preferred Forms of the Technology-Rich Outcomes-Focused Learning Environment Inventory (TROFLEI). Australian Journal of Educational & Developmental Psychology, 4, 110–125.
 * Anita G. Welch, Mustafa Cakir, Claudette M. Peterson & Chris M. Ray (2012) A cross-cultural validation of the Technology-Rich Outcomes-Focused Learning Environment Inventory (TROFLEI) in Turkey and the USA, Research in Science & Technological Education, 30:1, 49-63, DOI: 10.1080/02635143.2012.659179
+
+### Ross Test of Higher Cognitive Processes
+
+### Computer Attitude Questionnaire (CAQ)
