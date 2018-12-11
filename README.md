@@ -1,5 +1,9 @@
 # List of Survey Instruments
 
+## General literature
+
+* DeVellis, R. F. (1991). Scale development: Theory and applications. Newbury Park (Calif.): SAGE.
+
 ## Learning / Teaching
 
 ### Instructional Materials Motivation Survey (IMMS)
